@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Daluthi - Digital Solutions
 
 Daluthi is a modern and responsive website offering web development, mobile applications, and custom enterprise systems.
@@ -35,4 +34,3 @@ npm run dev
 ```
 
 After that, the site will be available at [http://localhost:5173/](http://localhost:5173/) (or the port defined by Vite).
-```
