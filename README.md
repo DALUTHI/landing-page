@@ -17,8 +17,8 @@ This project was built using the following technologies:
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/your-username/landing-page.git
+cd landing-page
 ```
 
 2️⃣ **Install dependencies**
